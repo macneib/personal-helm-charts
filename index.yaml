@@ -3,7 +3,17 @@ entries:
   poc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-25T15:28:22.96142-04:00"
+    created: "2022-08-26T11:18:03.356674-04:00"
+    description: A Helm chart for Kubernetes
+    digest: c9e369d65ffdc76bd119d4b72bbabae77f67adfb63349b23e17a530b555b4f54
+    name: poc
+    type: application
+    urls:
+    - https://macneib.github.io/personal-helm-charts/poc/poc-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-26T11:18:03.355729-04:00"
     description: A Helm chart for Kubernetes
     digest: b4bd440df52053dd5617a20c6dc4e9b213a5b0f2d1afffd09ab6071ad4a178d2
     name: poc
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://macneib.github.io/personal-helm-charts/poc/poc-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-25T15:28:22.960516-04:00"
+generated: "2022-08-26T11:18:03.3389-04:00"
